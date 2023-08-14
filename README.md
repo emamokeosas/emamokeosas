@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Emamoke by name.
+- 👀 I’m interested in Data Analytics and Visualization.
+- 🌱 I use Power BI, SQL, Excel and Tableau for Analysis and presentation of findings.
+- 💞️ I’m looking to collaborate on  that would help me improve my skills and experience.
+- ✨ Please feel free to explore some of my tableau dashboard.
+- 📫 How to reach me: Email me at osajuvi@gmail.com 
